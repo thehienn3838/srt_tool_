@@ -36,7 +36,6 @@ pip install pysrt PyQt6
 **Clone kho lưu trữ này về máy:
 ```bash
 git clone [https://github.com/thehienn3838/srt-translator-pro.git](https://github.com/thehienn3838/srt_tool_.git)
-cd srt-translator-pro
 ```
 
 ##📖 Hướng Dẫn Sử Dụng
