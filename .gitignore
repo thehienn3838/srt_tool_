@@ -1,0 +1,8 @@
+# Bỏ qua file đóng gói và file rác của Python
+build/
+dist/
+*.spec
+__pycache__/
+
+# Không tải file API keys nếu có
+*.env
